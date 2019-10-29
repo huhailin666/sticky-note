@@ -20,7 +20,7 @@
     "morgan": "~1.9.0",
     "passport": "^0.4.0",
     "passport-github": "^1.1.0",
-    "sequelize": "^5.1.0",
+    "sequelize": "^5.15.1",
     "sqlite3": "^4.0.6",
     "style-loader": "^0.23.1"
   },
